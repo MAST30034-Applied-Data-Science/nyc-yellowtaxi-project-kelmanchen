@@ -1,6 +1,5 @@
-# MAST30034 Project 1 README.md
+# Impact of COVID19 on NYC Yellow Taxis Project README.md
 - Name: Kelman Chen
-- Student ID: 1168867
 
 **Research Goal:** My research goal is to analyse the impact of the late 2021 spike on the Yellow Taxi and HVFHV (High Volume For-Hire Vehicles) industry, and how passenger behaviour has changed follwing NYC's lockdowns.
 
